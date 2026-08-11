@@ -1,3 +1,4 @@
+
 # pnd_parsi
 
 Pand-e-Parsi (Persian Wisdom) is a beautiful and intuitive mobile application designed to bring the timeless wisdom of great Persian poets and thinkers right to your fingertips. Immerse yourself in a curated collection of poems, quotes, and life advice from legendary figures like Hafez, Rumi (Molana), Saadi, Omar Khayyam, and many more.
@@ -13,13 +14,11 @@ Elegant & Native UI: Enjoy a user experience tailored for Persian speakers with
 Works Offline: Once downloaded, read your favorite poems anytime, anywhere, without an internet connection.
 Pictures of application
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
+<img width="576" height="1280" alt="photo_8_2026-08-11_09-07-30" src="https://github.com/user-attachments/assets/7fc60cc9-4344-4752-b113-ed1281a4078b" />
 A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 

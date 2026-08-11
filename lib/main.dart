@@ -167,7 +167,7 @@ Future<void> main() async {
       url: "https://yjobtsnnydycmcesizso.supabase.co",
 
       anonKey:
-          "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inlqb2J0c25ueWR5Y21jZXNpenNvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ1MjMyODAsImV4cCI6MjA2MDA5OTI4MH0.kRf0NJQL-IJSZEDU9bCIbo6bT6c-LIXeL3KapcQXz_I",
+          "anonKey",
     );
 
     SyncManager.instance.init();

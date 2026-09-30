@@ -15,6 +15,8 @@
 
 ### 📸 Screenshots / تصاویر اپلیکیشن
 
-### 🛠️ Installation & Getting Started / نحوه اجرا
+<img width="3508" height="2480" alt="1" src="https://github.com/user-attachments/assets/c545d0dd-f250-4fbf-ae82-338597608aaa" />
 
-To run this project locally, follow these simple steps:
+<img width="3508" height="2480" alt="2" src="https://github.com/user-attachments/assets/c946e95b-996b-454a-b074-1bffb0bcc1f8" />
+
+

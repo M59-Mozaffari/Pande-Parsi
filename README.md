@@ -15,8 +15,13 @@
 
 ### 📸 Screenshots / تصاویر اپلیکیشن
 
-<img width="3508" height="400" alt="1" src="https://github.com/user-attachments/assets/c545d0dd-f250-4fbf-ae82-338597608aaa" />
+### 📸 Screenshots / تصاویر اپلیکیشن
 
-<img width="3508" height="400" alt="2" src="https://github.com/user-attachments/assets/c946e95b-996b-454a-b074-1bffb0bcc1f8" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c545d0dd-f250-4fbf-ae82-338597608aaa" width="400" alt="Pand-e-Parsi Screenshots 1" style="margin: 10px; border-radius: 8px;"/>
+  
+  <img src="https://github.com/user-attachments/assets/c946e95b-996b-454a-b074-1bffb0bcc1f8" width="400" alt="Pand-e-Parsi Screenshots 2" style="margin: 10px; border-radius: 8px;"/>
+</p>
+
 
 

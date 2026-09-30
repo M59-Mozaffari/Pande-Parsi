@@ -16,9 +16,11 @@
 ### 📸 Screenshots / تصاویر اپلیکیشن
 
 <p align="center">
-  <img src="screenshots/1.png" width="400" alt="Pand-e-Parsi Screenshots 1" style="margin: 10px; border-radius: 8px;"/>
-  <img src="screenshots/2.png" width="400" alt="Pand-e-Parsi Screenshots 2" style="margin: 10px; border-radius: 8px;"/>
+  <img src="screenshots/1.png" width="400" alt="Pand-e-Parsi 1" style="margin: 10px; border-radius: 8px;"/>
+  <img src="screenshots/2.png" width="400" alt="Pand-e-Parsi 2" style="margin: 10px; border-radius: 8px;"/>
 </p>
+
+
 
 
 

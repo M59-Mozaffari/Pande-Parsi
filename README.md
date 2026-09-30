@@ -1,17 +1,20 @@
-# pnd_parsi
+### 📱 Pand-e-Parsi | پند پارسی
 
-A new Flutter project.
+### 🇬🇧 Project Overview (English)
 
-## Getting Started
+### ✨ Key Features
 
-This project is a starting point for a Flutter application.
+* [x] **Ever-Growing Library:** Our collection of wisdom is constantly expanding! New poems and quotes are added regularly, ensuring fresh and engaging content to discover.
+* [x] **Vast Collection:** Instant access to hundreds of handpicked poems and profound quotes (پند و اندرز) from iconic Persian literary masters.
+* [x] **Daily Wisdom:** Start your day inspired with a new, featured quote or poem through our dedicated "Quote of the Day" feature.
+* [x] **Powerful & Fast Search:** Query and find poems effortlessly by typing keywords, specific themes, or filtering by your favorite poets.
+* [x] **Favorites / Bookmarks:** Save your most-loved verses and insights into a personal collection for quick offline access anytime.
+* [x] **Share the Inspiration:** Beautifully share your favorite verses directly with friends and family via WhatsApp, Telegram, and other social apps.
+* [x] **Elegant & Native UI:** Enjoy a highly responsive and customized user experience tailored for Persian speakers with a gorgeous native Android interface.
+* [x] **100% Works Offline:** Once installed, explore the rich heritage of Persian literature anytime, anywhere, without requiring an active internet connection.
 
-A few resources to get you started if this is your first Flutter project:
+### 📸 Screenshots / تصاویر اپلیکیشن
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 🛠️ Installation & Getting Started / نحوه اجرا
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this project locally, follow these simple steps:
